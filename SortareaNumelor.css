@@ -1,0 +1,31 @@
+.titlu_proiect{
+  background: #009578;
+  color: #fff;
+  padding: 5px;
+}
+.btn_adaugaNume{
+   background: #009578;
+   color: #ffffff;
+   font-size: 18px;
+   border: none;
+   padding: 10px 20px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   margin: 4px 2px;
+   cursor: pointer;
+   border-radius: 16px;
+}
+.continut, .output{
+   font: inherit;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+#input{
+   font-size: 18px;
+   border: 0;
+   outline: 0;
+   border-radius: 5em;
+   box-sizing: border-box;
+}
